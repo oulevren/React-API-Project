@@ -1,0 +1,8 @@
+a.active::before{
+    content: ">";
+    color: orangered;
+}
+
+#sitenav a{
+    color: white;
+}
